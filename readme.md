@@ -1,3 +1,3 @@
-#Git test file
+Git test file
 
 I'm learning git)
